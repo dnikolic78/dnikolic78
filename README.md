@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
  **Danijela Nikolić, profesor tehnike i informatike**
-- :office: nastavnik u Osnovnoj školi"Sveti Sava" Gornji Milanovac
+- :office: nastavnik u Osnovnoj školi "Sveti Sava" Gornji Milanovac
 - :email: dnikolic78@gmail.com
